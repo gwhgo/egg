@@ -1,0 +1,279 @@
+{
+  "keys": "/root/GitCode/egg/egg-sbs/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/root/GitCode/egg/egg-sbs/config/config.default.js",
+    "mapping": {
+      ".tpl": "/root/GitCode/egg/egg-sbs/config/config.default.js"
+    },
+    "root": "/root/GitCode/egg/egg-sbs/node_modules/egg-view/config/config.default.js",
+    "cache": "/root/GitCode/egg/egg-sbs/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/root/GitCode/egg/egg-sbs/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/root/GitCode/egg/egg-sbs/config/config.default.js",
+    "serverUrl": "/root/GitCode/egg/egg-sbs/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/root/GitCode/egg/egg-sbs/node_modules/egg-session/config/config.default.js",
+    "key": "/root/GitCode/egg/egg-sbs/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/root/GitCode/egg/egg-sbs/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/root/GitCode/egg/egg-sbs/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "type": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "useSession": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "headerName": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "queryName": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "value": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "value": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "value": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "policy": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/root/GitCode/egg/egg-sbs/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/root/GitCode/egg/egg-sbs/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/root/GitCode/egg/egg-sbs/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/root/GitCode/egg/egg-sbs/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/root/GitCode/egg/egg-sbs/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/root/GitCode/egg/egg-sbs/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/root/GitCode/egg/egg-sbs/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/root/GitCode/egg/egg-sbs/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/root/GitCode/egg/egg-sbs/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/root/GitCode/egg/egg-sbs/node_modules/egg-watcher/config/config.default.js",
+      "development": "/root/GitCode/egg/egg-sbs/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/root/GitCode/egg/egg-sbs/node_modules/egg-schedule/config/config.default.js",
+      "file": "/root/GitCode/egg/egg-sbs/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/root/GitCode/egg/egg-sbs/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "files": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/root/GitCode/egg/egg-sbs/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/root/GitCode/egg/egg-sbs/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/root/GitCode/egg/egg-sbs/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/root/GitCode/egg/egg-sbs/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/root/GitCode/egg/egg-sbs/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/root/GitCode/egg/egg-sbs/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js",
+    "dir": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js",
+    "preload": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js",
+    "buffer": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/root/GitCode/egg/egg-sbs/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/root/GitCode/egg/egg-sbs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/root/GitCode/egg/egg-sbs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/root/GitCode/egg/egg-sbs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/root/GitCode/egg/egg-sbs/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/root/GitCode/egg/egg-sbs/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "name": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "cookies": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "proxy": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "version": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "description": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "main": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "dev": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    },
+    "author": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "license": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "moment": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "HOME": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "rundir": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "notFound": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "sitefile": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "middlewares": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "httpClient": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "encoding": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "formLimit": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "textLimit": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "strict": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "depth": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "encoding": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "env": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "level": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "outputJSON": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "buffer": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "appLogName": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "coreLogName": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "agentLogName": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "errorLogName": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "maxSockets": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "logging": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "port": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+      "hostname": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/root/GitCode/egg/egg-sbs/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,69 @@
+2019-12-19 10:12:20,113 INFO 29097 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65859889ms at 2019-12-20 04:30:00.001
+2019-12-19 10:12:20,113 INFO 29097 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 49659887ms at 2019-12-20 00:00:00.000
+2019-12-19 10:12:20,113 INFO 29097 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49660887ms at 2019-12-20 00:00:01.000
+2019-12-19 10:12:20,049 INFO 29108 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:12:20,049 INFO 29108 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:12:20,049 INFO 29108 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:22:45,549 INFO 29878 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:22:45,549 INFO 29878 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:22:45,549 INFO 29878 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:22:50,897 INFO 29896 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:22:50,897 INFO 29896 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:22:50,897 INFO 29896 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:45:20,315 INFO 31492 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63879687ms at 2019-12-20 04:30:00.002
+2019-12-19 10:45:20,315 INFO 31492 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47679685ms at 2019-12-20 00:00:00.000
+2019-12-19 10:45:20,316 INFO 31492 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47680685ms at 2019-12-20 00:00:01.001
+2019-12-19 10:45:20,256 INFO 31503 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:45:20,256 INFO 31503 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:45:20,256 INFO 31503 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:45:42,976 INFO 31564 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63857026ms at 2019-12-20 04:30:00.002
+2019-12-19 10:45:42,977 INFO 31564 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47657024ms at 2019-12-20 00:00:00.001
+2019-12-19 10:45:42,977 INFO 31564 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47658023ms at 2019-12-20 00:00:01.000
+2019-12-19 10:45:42,918 INFO 31575 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:45:42,918 INFO 31575 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:45:42,918 INFO 31575 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:46:30,662 INFO 31689 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63809340ms at 2019-12-20 04:30:00.002
+2019-12-19 10:46:30,662 INFO 31689 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47609338ms at 2019-12-20 00:00:00.000
+2019-12-19 10:46:30,663 INFO 31689 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47610338ms at 2019-12-20 00:00:01.001
+2019-12-19 10:46:30,604 INFO 31701 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:46:30,605 INFO 31701 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:46:30,605 INFO 31701 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:47:56,181 INFO 31850 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63723821ms at 2019-12-20 04:30:00.002
+2019-12-19 10:47:56,181 INFO 31850 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47523819ms at 2019-12-20 00:00:00.000
+2019-12-19 10:47:56,181 INFO 31850 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47524819ms at 2019-12-20 00:00:01.000
+2019-12-19 10:47:56,124 INFO 31861 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:47:56,124 INFO 31861 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:47:56,124 INFO 31861 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:48:34,621 INFO 31949 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63685381ms at 2019-12-20 04:30:00.002
+2019-12-19 10:48:34,621 INFO 31949 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47485379ms at 2019-12-20 00:00:00.000
+2019-12-19 10:48:34,621 INFO 31949 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47486379ms at 2019-12-20 00:00:01.000
+2019-12-19 10:48:34,568 INFO 31960 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:48:34,568 INFO 31960 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:48:34,568 INFO 31960 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:51:39,999 INFO 32565 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63500002ms at 2019-12-20 04:30:00.001
+2019-12-19 10:51:40,000 INFO 32565 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47300000ms at 2019-12-20 00:00:00.000
+2019-12-19 10:51:40,000 INFO 32565 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47301000ms at 2019-12-20 00:00:01.000
+2019-12-19 10:51:39,939 INFO 32576 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:51:39,939 INFO 32576 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:51:39,939 INFO 32576 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 10:52:08,761 INFO 32624 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 10:52:08,761 INFO 32624 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 10:52:08,761 INFO 32624 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 11:04:19,903 INFO 1254 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62740099ms at 2019-12-20 04:30:00.002
+2019-12-19 11:04:19,904 INFO 1254 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46540097ms at 2019-12-20 00:00:00.001
+2019-12-19 11:04:19,904 INFO 1254 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46541096ms at 2019-12-20 00:00:01.000
+2019-12-19 11:04:19,841 INFO 1266 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 11:04:19,841 INFO 1266 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 11:04:19,841 INFO 1266 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 15:42:53,363 INFO 32647 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46026638ms at 2019-12-20 04:30:00.001
+2019-12-19 15:42:53,364 INFO 32647 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29826636ms at 2019-12-20 00:00:00.000
+2019-12-19 15:42:53,364 INFO 32647 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29827636ms at 2019-12-20 00:00:01.000
+2019-12-19 15:42:53,248 INFO 32659 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 15:42:53,248 INFO 32659 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 15:42:53,248 INFO 32659 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-20 12:55:45,609 INFO 4310 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56054392ms at 2019-12-21 04:30:00.001
+2019-12-20 12:55:45,610 INFO 4310 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39854390ms at 2019-12-21 00:00:00.000
+2019-12-20 12:55:45,610 INFO 4310 [Timer] /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39855390ms at 2019-12-21 00:00:01.000
+2019-12-20 12:55:45,527 INFO 4321 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-20 12:55:45,527 INFO 4321 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-20 12:55:45,527 INFO 4321 [egg-schedule]: register schedule /root/GitCode/egg/egg-sbs/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
